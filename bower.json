@@ -1,0 +1,14 @@
+{
+  "name": "soda-js",
+  "version": "0.2.0",
+  "main": "lib/soda-js.js",
+  "ignore": [
+    "**/.*",
+    "Cakefile",
+    "package.json",
+    "src",
+    "test"
+  ],
+  "dependencies": [ "superagent", "eventemitter2" ],
+  "devDependencies": [ "coffee-script", "expresso" ]
+}
