@@ -9,6 +9,6 @@
     "src",
     "test"
   ],
-  "dependencies": [ "visionmedia/superagent", "eventemitter2" ],
+  "dependencies": [ "https://github.com/visionmedia/superagent", "eventemitter2" ],
   "devDependencies": [ "coffee-script", "expresso" ]
 }
